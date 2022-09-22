@@ -1,6 +1,6 @@
 ---
 title: "project_1"
-author: "Somesh J, Viren Y, Priti G, Anand K"
+author: "Somesh J"
 date: '2022-09-13'
 output: html_document
 ---
@@ -23,13 +23,6 @@ Viewing dataframe
 ```{r}
 View(df)
 ```
-
-
-## Project planning
-1. HR Theory Consultant : Viren
-2. Data visualization : Priti
-3. Analytical Lead : Anand
-4. Team leader : Somesh
 
 Loading the libraries
 ```{r}
